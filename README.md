@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Urbashree Hazarika</b></sub>
+                    <sub><b>Ali Solanaki</b></sub>
                 </a> 
             </td>
             <td align="center">
@@ -63,14 +63,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
-                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F0%2F02%2FTweety.svg&tbnid=pc44gaUJEZoo3M&vet=12ahUKEwirtqP8opH_AhXVGbcAHVlECwAQMygCegUIARDlAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTweety&docid=3neMXr_N_JwQeM&w=236&h=424&q=cartoon&ved=2ahUKEwirtqP8opH_AhXVGbcAHVlECwAQMygCegUIARDlAQ" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="hH_AhXVGbcAHVlECwAQMygCegUIARDlAQ" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
-                    <sub><b>Dhruv</b></sub>
+                    <sub><b>Dhruv Kotwani</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
-                    <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
+                    <img src="https://avatars.githubusercontent.com/u/131008927?s=400&v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
